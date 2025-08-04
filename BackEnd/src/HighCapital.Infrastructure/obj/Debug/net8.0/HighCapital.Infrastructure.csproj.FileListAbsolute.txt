@@ -1,0 +1,15 @@
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\bin\Debug\net8.0\HighCapital.Infrastructure.deps.json
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\bin\Debug\net8.0\HighCapital.Infrastructure.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\bin\Debug\net8.0\HighCapital.Infrastructure.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\bin\Debug\net8.0\HighCapital.Domain.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\bin\Debug\net8.0\HighCapital.Domain.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.AssemblyInfo.cs
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapi.56168065.Up2Date
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\refint\HighCapital.Infrastructure.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\HighCapital.Infrastructure.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Infrastructure\obj\Debug\net8.0\ref\HighCapital.Infrastructure.dll

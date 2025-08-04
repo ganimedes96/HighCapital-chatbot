@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86EF034A-624F-4437-BD10-69EBA5B0770C}|src\\HighCapital.Infrastructure\\HighCapital.Infrastructure.csproj|c:\\users\\felix\\documents\\highcapital-desafio-tecnico\\backend\\src\\highcapital.infrastructure\\dataaccess\\repositories\\botsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EF034A-624F-4437-BD10-69EBA5B0770C}|src\\HighCapital.Infrastructure\\HighCapital.Infrastructure.csproj|solutionrelative:src\\highcapital.infrastructure\\dataaccess\\repositories\\botsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFCDCF7-DC15-49C5-842B-5F407C245A3B}|src\\HighCapital.Application\\HighCapital.Application.csproj|c:\\users\\felix\\documents\\highcapital-desafio-tecnico\\backend\\src\\highcapital.application\\usecases\\message\\create\\createmessageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFCDCF7-DC15-49C5-842B-5F407C245A3B}|src\\HighCapital.Application\\HighCapital.Application.csproj|solutionrelative:src\\highcapital.application\\usecases\\message\\create\\createmessageusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DFCDCF7-DC15-49C5-842B-5F407C245A3B}|src\\HighCapital.Application\\HighCapital.Application.csproj|c:\\users\\felix\\documents\\highcapital-desafio-tecnico\\backend\\src\\highcapital.application\\automapper\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DFCDCF7-DC15-49C5-842B-5F407C245A3B}|src\\HighCapital.Application\\HighCapital.Application.csproj|solutionrelative:src\\highcapital.application\\automapper\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateMessageUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs",
+              "RelativeDocumentMoniker": "src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs",
+              "ToolTip": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs*",
+              "RelativeToolTip": "src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:04:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BotsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Infrastructure\\DataAccess\\Repositories\\BotsRepository.cs",
+              "RelativeDocumentMoniker": "src\\HighCapital.Infrastructure\\DataAccess\\Repositories\\BotsRepository.cs",
+              "ToolTip": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Infrastructure\\DataAccess\\Repositories\\BotsRepository.cs",
+              "RelativeToolTip": "src\\HighCapital.Infrastructure\\DataAccess\\Repositories\\BotsRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:50:08.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Application\\AutoMapper\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "src\\HighCapital.Application\\AutoMapper\\AutoMapping.cs",
+              "ToolTip": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Application\\AutoMapper\\AutoMapping.cs",
+              "RelativeToolTip": "src\\HighCapital.Application\\AutoMapper\\AutoMapping.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA3wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:30:30.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

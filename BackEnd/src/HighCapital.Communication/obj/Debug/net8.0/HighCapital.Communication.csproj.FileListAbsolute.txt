@@ -1,0 +1,17 @@
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Communication.deps.json
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Communication.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Communication.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.AssemblyInfo.cs
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\refint\HighCapital.Communication.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\ref\HighCapital.Communication.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Domain.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Infrastructure.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Infrastructure.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\bin\Debug\net8.0\HighCapital.Domain.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapital.Communication.csproj.AssemblyReference.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Communication\obj\Debug\net8.0\HighCapi.08AEFCA0.Up2Date

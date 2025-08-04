@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\bin\Debug\net8.0\HighCapital.Exception.deps.json
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\bin\Debug\net8.0\HighCapital.Exception.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\bin\Debug\net8.0\HighCapital.Exception.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.AssemblyInfo.cs
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\refint\HighCapital.Exception.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\HighCapital.Exception.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Exception\obj\Debug\net8.0\ref\HighCapital.Exception.dll

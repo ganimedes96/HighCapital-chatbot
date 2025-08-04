@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\bin\Debug\net8.0\HighCapital.Domain.deps.json
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\bin\Debug\net8.0\HighCapital.Domain.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\bin\Debug\net8.0\HighCapital.Domain.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.AssemblyInfo.cs
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\refint\HighCapital.Domain.dll
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\HighCapital.Domain.pdb
+C:\Users\Felix\Documents\HighCapital-Desafio-Tecnico\BackEnd\src\HighCapital.Domain\obj\Debug\net8.0\ref\HighCapital.Domain.dll
