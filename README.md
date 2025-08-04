@@ -119,4 +119,3 @@ src/components: Componentes reutilizáveis da interface de usuário.
 src/pages: As páginas principais da aplicação
 
 
-Se quiser esse conteúdo salvo como `.md`, posso gerar o arquivo para você. Deseja?
