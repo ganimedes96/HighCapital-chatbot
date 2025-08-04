@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs",
               "ToolTip": "C:\\Users\\Felix\\Documents\\HighCapital-Desafio-Tecnico\\BackEnd\\src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs",
               "RelativeToolTip": "src\\HighCapital.Application\\UseCases\\Message\\Create\\CreateMessageUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T19:04:22.513Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "src\\HighCapital.Infrastructure\\DataAccess\\Repositories\\BotsRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:50:08.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T18:50:08.014Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "src\\HighCapital.Application\\AutoMapper\\AutoMapping.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA3wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T18:30:30.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T18:30:30.036Z"
             }
           ]
         }
