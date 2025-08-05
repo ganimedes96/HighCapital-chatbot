@@ -86,7 +86,7 @@ A API será iniciada em: https://localhost:7185
 3. Configuração do Frontend
 Instale as Dependências:
 
-cd FrontEnd
+cd front
 npm install
 
 npm run dev
